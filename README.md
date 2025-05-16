@@ -37,3 +37,8 @@ Opportunities to collaborate on innovative projects and solve complex problems i
 Get in Touch:
 Email : yaemcan1@gmail.com
 
+
+
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousseflmrani&show_icons=true&theme=radical)
+
+
