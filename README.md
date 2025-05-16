@@ -39,7 +39,8 @@ Email : yaemcan1@gmail.com
 
 
 
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousseflamrani&show_icons=true&theme=radical)   ![](https://komarev.com/ghpvc/?username=yousseflamrani&color=green)
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousseflamrani&show_icons=true&theme=radical)  ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseflamrani&layout=compact&theme=radical)
+
 
 
 
