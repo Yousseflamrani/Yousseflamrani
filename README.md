@@ -30,6 +30,11 @@ DevOps: Docker, GitHub Actions
 
 Low-Code Solutions: Power Apps, Power Automate, PowerBi, SharePoint
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 What I'm Looking For:
 Opportunities to collaborate on innovative projects and solve complex problems in cloud engineering and web development.
 
@@ -40,11 +45,8 @@ Email : yaemcan1@gmail.com
 
 
 ![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousseflamrani&show_icons=true&theme=radical)  
-### 🛠️ Technologies & Tools  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 
 
