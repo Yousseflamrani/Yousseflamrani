@@ -46,6 +46,9 @@ Email : yaemcan1@gmail.com
 
 ![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousseflamrani&show_icons=true&theme=radical)  
 
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=yousseflamrani&theme=onedark)
+
+
 
 
 
